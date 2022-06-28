@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD
+chmod ug+x,o+r hello
+=======
+chmod a+x hello
+>>>>>>> 128f9589fbb3d665e8604c36c223c13a03c55181
